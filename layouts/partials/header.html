@@ -1,0 +1,32 @@
+<header>
+    <div class="container">
+        <div class="logo">
+            <a href="/" class="logo">
+                {{ if (ne .Site.Params.customImage "") }}
+                    <img src="{{ .Site.Params.customImage }}" alt="">
+                {{ else }}
+                    <img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatarEMail }}?d=mm&size=200" alt="">
+                {{ end }}
+            </a>
+        </div>
+        <div class="titles">
+            <h3 class="title"><a href="/">{{ .Site.Title }}</a></h3>
+			<span id="header-subtitle" class="subtitle">Student &#183; Virginian &#183; Programmer &#183; Wahoo</span>
+			<div class="header-social-media">
+				{{ with .Site.Params.email }}
+					<a href="{{ . }}" target="_blank"><i class="fa fa-envelope-o"></i></a>
+				{{ end }}
+				{{ with .Site.Params.facebook }}
+					<a href="{{ . }}" target="_blank"><i class="fa fa-facebook"></i></a>
+				{{ end }}
+				{{ with .Site.Params.github }}
+					<a href="{{ . }}" target="_blank"><i class="fa fa-github"></i></a>
+				{{ end }}
+				{{ with .Site.Params.linkedin }}
+					<a href="{{ . }}" target="_blank"><i class="fa fa-linkedin"></i></a>
+				{{ end }}
+			</div>
+        </div>
+
+    </div>
+</header>
