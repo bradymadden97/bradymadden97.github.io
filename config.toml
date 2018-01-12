@@ -1,6 +1,8 @@
 title = "Brady Madden"
-baseURL = "http://bradymadden.me"
+baseURL = "bradymadden97.github.io"
 theme = "bilberry-hugo-theme"
+
+publishDir = "docs"
 
 enableRobotsTXT = true
 
