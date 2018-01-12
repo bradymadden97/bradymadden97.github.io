@@ -1,0 +1,131 @@
+.header-social-media a i{
+	padding: 10px 5px 0px 5px;
+}
+.bilberry-hugo-theme header .logo{
+	border: 2px solid #eee;
+	transition: all .2s ease-in-out;
+}
+.bilberry-hugo-theme header .logo:hover{
+	border-color: rgba(232, 151, 64, 1);
+}
+
+.bilberry-hugo-theme a:hover{
+	color: rgba(232, 151, 64, 1);
+}
+.bilberry-hugo-theme header{
+	box-shadow: 0px 0px 20px 7px #a0a0a0;
+	background-color: #373d83;
+}
+.bilberry-hugo-theme header .container:after{
+	left: 49px;
+}
+.bilberry-hugo-theme .main:before{
+	left: 49px;
+}
+.bilberry-hugo-theme .main .article-wrapper .bubble{
+	left: 24px;
+	transition: all .2s ease-in-out;
+}
+.bilberry-hugo-theme .main .article-wrapper .bubble:hover{
+	background-color: rgba(232, 151, 64, 1);
+}
+.bilberry-hugo-theme .credits .container{
+	display: block;
+}
+.foot{
+	display: block;
+	text-align: center;
+}
+.foot a{
+	padding-bottom: 10px;
+}
+.bilberry-hugo-theme footer{
+	box-shadow: 0px 2px 20px 0px #a0a0a0;
+	border: none;
+}
+.bilberry-hugo-theme footer .container div{
+	width: 100%;
+}
+.single-article-wrapper{
+	padding-top: 50px;
+}
+.single-article-wrapper article{
+	margin: auto;
+}
+.article-wrapper{
+	padding-top: 50px;
+}
+.article-wrapper article{
+	margin: auto;
+}
+.bilberry-hugo-theme header .container:after{
+	display: none;
+}
+.bilberry-hugo-theme .main:before{
+	display: none;
+}
+.bilberry-hugo-theme .main:after{
+	display: none;
+}
+.bilberry-hugo-theme article{
+	box-shadow: 3px 3px 20px 0px #a0a0a0;
+}
+#header-subtitle{
+	transition: all .2s ease-in-out;
+}
+.bilberry-hugo-theme article .content a.more{
+	color: rgba(232, 151, 64, 1);
+	text-align: right;
+	margin-right: 20px;
+	font-size: 16px;
+}
+
+img{
+	border-radius: 5px;
+}
+
+.content p a{
+	color: rgba(232, 151, 64, 1);
+}
+.bilberry-hugo-theme article .content a{
+	font-style: normal;
+}
+
+.image-holder{
+	width: 550px;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+@media (max-width: 550px){
+	.image-holder{
+		width: 300px;
+	}
+}
+
+@media (max-width: 550px){
+	#header-subtitle{
+		font-size: 1.3rem;
+	}
+}
+
+@media screen and (max-width: 376px){
+	.bilberry-hugo-theme header{
+		height: auto;
+	}
+	.bilberry-hugo-theme header .container{
+		display: block;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.bilberry-hugo-theme header .logo{
+		display: block;
+		margin: auto;
+	}
+	.bilberry-hugo-theme header .titles{
+		margin-left: 0px;
+		margin-top: 10px;
+	}
+}
+	
