@@ -2,7 +2,7 @@ title = "Brady Madden"
 baseURL = "bradymadden97.github.io"
 theme = "bilberry-hugo-theme"
 
-publishDir = "docs"
+publishDir = "public"
 
 enableRobotsTXT = true
 
