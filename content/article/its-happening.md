@@ -18,7 +18,7 @@ All kidding aside, my expectations for this semester are rising as fast as this 
 
 In addition to becoming a veteran of Copenhagen, I want to visit London, Paris, Berlin, Iceland, Norway, Budapest, Amsterdam, Cinque Terre, Lisbon, Ireland...! Who knows how feasible that is, but like I said, expectations are high. Some of those southern countries are a _must_ since Copenhagen has an average temperature hovering around freezing and gets basically no daylight in the winter. At least I've finally found the place where my pale skin won't stand out so much! These are _my_ people.
 
-I'm really so thankful to be able to take this experience and I'm looking to make the absolute most out of every day, and every bite of Smørrebrød (some kind of Danish sandwich with bread on only one side! No wonder Europeans are so much healthier than Americans). I can't say a big enough thank you to my parents for helping me make this happen in every day - down to driving a Uhaul to Charlottesville and moving my queen-sized bed out of my 5th floor apartment.
+I'm really so thankful to be able to take this experience and I'm looking to make the absolute most out of every day, and every bite of Smørrebrød (some kind of Danish sandwich with bread on only one side! No wonder Europeans are so much healthier than Americans). I can't say a big enough thank you to my parents for helping me make this happen in every way - even driving a Uhaul to Charlottesville and moving my queen-sized bed out of my 5th floor apartment didn't crush this dream.
 
 I'll miss Charlottesville and UVa a ton, all the people there and the awesome events in the spring. But you'll still be able to find me up at 2AM cheering on UVa basketball from six hours ahead! 
 
