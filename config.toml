@@ -23,7 +23,7 @@ DefaultContentLanguage = "en"
   # Files are imported in the order they appear here, after
   # theme.css and theme.js, respectively.
   css_modules = ["css/main.css"]
-  js_modules = []
+  js_modules = ["js/main.js"]
 
   # Description and meta data for the search engines
   author = "Brady Madden"

@@ -96,19 +96,16 @@ img{
 	margin: auto;
 	margin-bottom: 20px;
 }
-.caption{
-	text-align: center;
-	background: #E3E1DB;
-	border-bottom-right-radius: 10px;
-	border-bottom-left-radius: 10px;
-	margin-top: -10px;
-	padding-top: 20px;
-	padding-bottom: 10px;
+
+.bilberry-hugo-theme article .featured-image-preview{
+	max-height: 300px;
+	overflow: hidden;
+	position: relative;
 }
-.content div img{
-	cursor: pointer !important;
-	box-shadow: 0px 10px 20px 0px darkgrey;
+.bilberry-hugo-theme article .featured-image-preview img{
+	margin-top: -50%;
 }
+
 @media (max-width: 550px){
 	.image-holder{
 		width: 300px;
