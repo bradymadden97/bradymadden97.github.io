@@ -12,6 +12,8 @@ Hello from across the pond!
 
 It has been a whirlwind first five-ish days in Copenhagen and I decided I needed to finally sit down and write about everything that's happened before I forget! This is probably going to be too long but I'll try to start with the basics:
 
+<!--more-->
+
 **Housing**
 
 I live in an apartment complex of all DIS students in the _center_ of the city - it doesn't have a name like a lot of the apartments in Charlottesville so we just call it by the street name: _Skindergade_. I'm pretty sure nobody has really figured out the correct pronunciation but I've heard about 50 different ones.
