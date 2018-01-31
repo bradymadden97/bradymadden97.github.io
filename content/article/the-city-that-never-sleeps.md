@@ -12,6 +12,8 @@ There's been so much to write about here but frankly, just not enough quiet, alo
 
 Like I mentioned in the last post, I live literally in the center of the city. Charlottesville has the corner, the strip of bars all in very close proximity to each other where everyone goes out -- I basically live on the corner of Copenhagen - but with about 10x as many bars, and a bunch of clubs. Most of which close _far_ after 2AM. Cue Adam and I sadly sitting awake at 4:30 last night listening to the club music 30 feet from our beds. We've been able to hit a bunch of different bars in our direct area and have even started venturing out past the nearby streets where the bars are less Americanized and more authentic -- I'm really enjoying trying to meet Danes and they always are so intrigued by Americans! A lot of them can't understand why I would leave America to come to Denmark for a semester.
 
+<!--more-->
+
 <p>
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
 		<img style="max-width:100%;max-height:400px" src="/images/city-never-sleeps9.jpg"/>
