@@ -60,6 +60,15 @@ Also this week: my danish class and I visited a real Danish _gymnasium_, which i
 
 <p>
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
+		<img style="max-width:100%;max-height:400px" src="/images/becoming-a-dane10.jpg"/>
+		<div class="caption">
+			DIS Danish and Nørre gymnasium english class!
+		</div>
+	</div>
+</p>
+
+<p>
+	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
 		<img style="max-width:100%;max-height:400px" src="/images/becoming-a-dane8.jpg"/>
 		<div class="caption">
 			Frederik's Kirke
