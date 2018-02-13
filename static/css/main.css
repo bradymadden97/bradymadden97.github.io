@@ -120,6 +120,12 @@ img{
 	max-height: 400px;
 	
 }
+.older:hover{
+	background-color: #d3d3d3 !important;
+}
+.newer:hover{
+	background-color: #d3d3d3 !important;
+}
 @media (max-width: 550px){
 	.image-holder{
 		width: 300px;
