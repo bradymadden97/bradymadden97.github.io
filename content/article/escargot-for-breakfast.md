@@ -145,7 +145,7 @@ Exhausted from two days of nonstop walking and sightseeing, we of course had to 
 		<img style="max-width:100%;max-height:400px" src="/images/escargot-for-breakfast12.jpg"/>
 	</div>
 	<div class="caption">
-		Beautiful fresco inside Sacré-Cœur
+		Beautiful inside of Sacré-Cœur
 	</div>
 </p>
 
