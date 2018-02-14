@@ -31,7 +31,16 @@ We ventured into the huge hall of impressionist art, definitely the area we were
 	</div>
 </p>
 
-One of my favorites were these church paintings by Monet. They looked to me like a big church made out of dripping candle wax.
+Some of my other favorites was this one by Caillebotte and these church paintings by Monet. They looked to me like a big church made out of dripping candle wax.
+
+<p>
+	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
+		<img style="max-width:100%;max-height:400px" src="/images/escargot-for-breakfast3.jpg"/>
+		<div class="caption">
+			Caillebotte
+		</div>
+	</div>
+</p>
 
 <p>
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
