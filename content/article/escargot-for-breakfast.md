@@ -31,7 +31,7 @@ We ventured into the huge hall of impressionist art, definitely the area we were
 	</div>
 </p>
 
-Some of my other favorites was this one by Caillebotte and these church paintings by Monet. They looked to me like a big church made out of dripping candle wax.
+One of my favorites were these church paintings by Monet. They looked to me like a big church made out of dripping candle wax.
 
 <p>
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
@@ -94,7 +94,7 @@ Saturday was a little unfortunate because it rained literally the whole day, but
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
 		<img style="max-width:100%;max-height:400px" src="/images/escargot-for-breakfast6.jpg"/>
 		<div class="caption">
-			Beautiful stained glass tells has a different picture in each pane
+			Beautiful stained glass has a different picture in each pane
 		</div>
 	</div>
 </p>
