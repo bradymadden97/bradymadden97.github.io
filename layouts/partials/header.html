@@ -3,9 +3,9 @@
         <div class="logo">
             <a href="/" class="logo">
                 {{ if (ne .Site.Params.customImage "") }}
-                    <img src="{{ .Site.Params.customImage }}" alt="">
+                    <img src="{{ .Site.Params.customImage }}" alt="" nopresent>
                 {{ else }}
-                    <img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatarEMail }}?d=mm&size=200" alt="">
+                    <img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatarEMail }}?d=mm&size=200" alt="" nopresent>
                 {{ end }}
             </a>
         </div>
