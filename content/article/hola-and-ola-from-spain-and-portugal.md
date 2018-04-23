@@ -1,5 +1,5 @@
 ---
-title: "Hola and Ola from Spain and Portugal"
+title: "Hola and Olá from Spain and Portugal!"
 date: 2018-04-23T13:54:10+02:00
 draft: false
 
@@ -8,7 +8,6 @@ categories: []
 tags: ['Study Abroad']
 author: "Brady Madden"
 ---
-Hola and Olá from Spain and Portugal!
 
 As awful as I&#39;ve been about writing/posting this semester I told myself I had to do one for my spring break trip or else I would definitely start forgetting stuff! Well, what an unreal week. I called (for warm, sunny weather) and the Iberian Peninsula loudly answered! This was my final trip of the semester before heading home - REAL home, not the &quot;home&quot; that I call Copenhagen in texts sometimes, sorry Mom - and it would be hard to say it wasn&#39;t the best one yet! It was my spring break week from DIS so I left Thursday night for Barcelona and came back the following Saturday from Lisbon. In the middle I stopped in Porto, another city in Portugal, and even managed a few hours (waffles) in Brussels during a layover. This post may be long, or it may be bulleted, I don&#39;t know how many words my engineering brain can handle and I have to save room for some real school papers due this week (gasp)!
 
