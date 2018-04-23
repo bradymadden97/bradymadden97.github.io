@@ -329,7 +329,7 @@ Sintra: The City Formerly Known As Disneyland Portugal. This was a day trip away
 
 Quick shoutout to the bus driver for whipping this giant bus through tight curves all the way up this mountain. Less of a shoutout to the same bus driver for telling us to get off at the &quot;next stop&quot; when it turned out we definitely did not want to get off at the &quot;next stop&quot;.
 
-Anyways, our first real stop was the Castelo dos Mouros - The Castle of the Moors. Quick fact: The Moors occupied Portugal before the Portuguese and have left a lot of influence on the city. &quot;Al&quot; in Arabic means &quot;The&quot;, which is why a lot of Portuguese neighborhoods have names beginning with &quot;Al&quot;, such as the famous old district &quot;Alfama&quot;. This castle was frankly just right up my alley - hiking through nature up to a really high up beautiful view? That&#39;s vacation 101. This castle was from like 1000. I&#39;ll let the pictures say the rest but it was really really neat.
+Anyways, our first real stop was the Castelo dos Mouros - The Castle of the Moors. Quick fact: The Moors occupied Portugal before the Portuguese and have left a lot of influence on the city. &quot;Al&quot; in Arabic means &quot;The&quot;, which is why a lot of Portuguese neighborhoods have names beginning with &quot;Al&quot;, such as the famous old district &quot;Alfama&quot;. This castle was frankly just right up my alley - hiking through nature up to a really high up beautiful view? That&#39;s vacation 101. I&#39;ll let the pictures say the rest but it was really really neat.
 
 <p>
 	<div style="width:100%;text-align:center;border-radius:10px;background-color:#f1f0ed">
