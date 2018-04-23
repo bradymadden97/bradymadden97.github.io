@@ -390,7 +390,7 @@ We truly overexerted ourselves on this day and had aspirations of the beach and 
 
 
 
-And that&#39;s just about it! I can&#39;t be thankful enough for the amazing company I was with all week, the weather we lucked out with, the great food and the recommendations- I think I&#39;ll be reliving this vacation through pictures for a long time.
+And that&#39;s about it! If you made it all the way through this one I'm shocked or you're my parents lol. I can&#39;t be thankful enough for the amazing company I was with all week, the weather we lucked out with, the great food and the recommendations- I think I&#39;ll be reliving this vacation through pictures for a long time.
 
 Adiós and tchau,
 
